@@ -5,7 +5,7 @@
 ## 👋 Hi, I’m @playolaizq
 - 🐐 I love climbing!
 - 🏠 Based in Barcelona, Spain
-- 🚀 Working at [EnhanceDocs](https://enhancedocs.com/)
+- 🚀 Working at [Scopely](https://www.scopely.com)
 - 🌐 English, Spanish and Catalan
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/playolaizq/)
 
